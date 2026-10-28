@@ -1,4 +1,4 @@
-# RESOLVO-
+# RESOLVO
 AI-powered WhatsApp complaint resolution for Nigerian fintechs and banks.
 Customers who face a failed transfer, a missing reversal or a duplicate charge usually wait hours or days for support. Resolvo answers on WhatsApp in seconds. It resolves safe queries automatically and sends anything involving money, fraud or an upset customer to a human agent.
 How it works
